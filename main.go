@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"task1/input"
-	"task1/validation"
+	"gophers_1/input"
+	"gophers_1/validation"
 )
 
 func main() {
